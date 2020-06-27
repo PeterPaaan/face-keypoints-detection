@@ -7,5 +7,5 @@ The detection performance looks like below:
   
 ![face](model_performance.png)  
 
-## Train your on model
+## Train your own model
 The model structre in `kmodel` follows a classical convolutional layers + FC layers here, you can try and make changes to get better performace. (First get your training data, which can be found on kaggle.)
