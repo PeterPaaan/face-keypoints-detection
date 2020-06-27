@@ -2,8 +2,7 @@
 Detection 15 key points on faces and mask a specific area with a token. Model based on `OpenCV` and `Keras`.
 
 ## How to play with
-To have a quick glance on how this project works, simply run `face.keypoints` by loading the pre_trained model `demo_pretrained_model.h5`.  
-The camera on your laptop will be activated and start to detect faces. A pair of sunglasses will add to the detected face.  
+To have a quick glance on how this project works, simply run `face.keypoints` by loading the pre_trained model `demo_pretrained_model.h5`.The camera on your laptop will be activated and start to detect faces. A pair of sunglasses will add to the detected face.  
 The detection performance looks like below:  
   
 ![face](model_performance.png)  
